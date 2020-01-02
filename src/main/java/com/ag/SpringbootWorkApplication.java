@@ -10,6 +10,7 @@ public class SpringbootWorkApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootWorkApplication.class, args);
+        System.out.println("我在运行");
     }
 
 }
